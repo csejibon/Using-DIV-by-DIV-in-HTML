@@ -1,0 +1,100 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    position: relative;
+    top: 0px;
+    margin: 0 auto;
+    padding: 0px;
+    height: 700px;
+    width: 960px;
+    background-color: #33ffff;
+}
+
+.header{
+    position: relative;
+    top: 0px;
+    height: 100px;
+    width: 960px;
+    background-color: #999999;
+}
+.bannar{
+    position: relative;
+    top: 0px;
+    height: 300px;
+    width: 960px;
+    background-color: #9999ff;
+}
+.b1{
+    float: left;
+    top: 0px;
+    margin-left: 0px;
+    height: 300px;
+    width: 320px;
+    background-color: #ff9999;
+}
+.b2{
+    float: left;
+    top: 0px;
+    height: 300px;
+    width: 320px;
+    background-color: #cc00cc;
+}
+.b3{
+    float: left;
+    top: 0px;
+    height: 300px;
+    width: 320px;
+    background-color: #33ff33;
+}
+.mid{
+    position: relative;
+    top: 0px;
+    height: 100px;
+    width: 960px;
+    background-color: #ff00ff;
+}
+.m1{
+    float: left;
+    top: 0px;
+    height: 100px;
+    width: 480px;
+    background-color: #33ff33;
+}
+.m2{
+    float: left;
+    top: 0px;
+    height: 100px;
+    width: 480px;
+    background-color: #ff66ff;
+}
+
+.mid2{
+    position: relative;
+    top: 0px;
+    height: 100px;
+    width: 960px;
+    background-color: #666666;
+}
+.m21{
+    float: left;
+    top: 0px;
+    height: 100px;
+    width: 480px;
+    background-color: #006666;
+}
+.m22{
+    float: left;
+    top: 0px;
+    height: 100px;
+    width: 480px;
+    background-color: #ff6666;
+}
+.fotter{
+    position: relative;
+    top: 0px;
+    height: 100px;
+    width: 960px;
+    background-color: #ff0000;
+}
